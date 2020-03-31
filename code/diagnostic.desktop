@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=ALTA Diagnostics
+Type=Application
+Exec=sh /home/pi/code/dia.sh
